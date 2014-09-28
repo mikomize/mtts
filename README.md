@@ -12,13 +12,13 @@ This plugin provides window command that generates snippets for every keyword sp
 snippet tag.
 
 Usage:
-1. install plugin by cloning this repo inside your sublime package dir
-2. for each snippet that you want to make subject to multi tabs trigger add 
+* install plugin by cloning this repo inside your sublime package dir
+* for each snippet that you want to make subject to multi tabs trigger add 
 ```
 <multiTabTrigger>some trigger 1, some trigger 2</multiTabTrigger>
 ```
 tag to your snippet
-3. type 
+* type 
 ```
 window.run_command("mtts")
 ```
