@@ -29,4 +29,4 @@ Settings:
 * `mtts_output` : path to directory for generated snippets. Relative to project file.
 * `mtts_source` : plugin starts recursive search for all snippets from provided path. Relative to project file.
 
-If still confused, please check my (Haxime plugin)[https://github.com/mikomize/haxime], project file.
+If still confused, please check my [Haxime plugin](https://github.com/mikomize/haxime), project file.
